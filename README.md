@@ -1,0 +1,2 @@
+# UnityMetaQuest3Template
+UnityでMetaQuest3向け開発を行うための、初期設定を終えたテンプレートリポジトリ。
