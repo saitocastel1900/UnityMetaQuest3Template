@@ -1,2 +1,2 @@
 # UnityMetaQuest3Template
-UnityでMetaQuest3向け開発を行うための、初期設定を終えたテンプレートリポジトリ。
+UnityでMetaQuest3対応アプリを開発するための、テンプレートリポジトリ。初期設定済みで豆腐をコントローラ・ハンドトラッキングで操作できる。  
